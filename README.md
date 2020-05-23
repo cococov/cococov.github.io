@@ -1,5 +1,5 @@
 # cococov.github.io
-My GitHub Page
+My GitHub Page Using React and TypeScript
 
 ## Available Scripts
 
@@ -17,3 +17,7 @@ Launches the test runner in the interactive watch mode.<br />
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
+
+### `npm run deploy`
+
+Builds the app and push to the master brach.<br />
